@@ -1,8 +1,8 @@
 def find_even_values(src)
   count = 0 
-  while count < array.src.length do
+  while count < src.length do
     inner_count = 0
-    while inner_count < array.src.length[inner_count] do
+    while inner_count < src.length[inner_count] do
     if src[inner_count] % 2 = 0 
       puts src[inner_count]
     
