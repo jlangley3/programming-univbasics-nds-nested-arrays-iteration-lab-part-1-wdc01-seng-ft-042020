@@ -4,8 +4,8 @@ def find_even_values(src)
     inner_count = 0
     while inner_count < src[inner_count].length do
     if src[inner_count] % 2 = 0 
-      puts src[inner_count]
-    
+      p src[inner_count]
+    end
     end
     inner_count += 1
   end
